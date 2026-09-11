@@ -1,0 +1,78 @@
+{
+  "export_type": "chats_by_user",
+  "exported_at": "2026-09-11 12:51:10",
+  "count": 2,
+  "user": {
+    "id": 4,
+    "full_name": "Попов Павел Петрович",
+    "city": "Пермь",
+    "birth_date": "1983-07-29",
+    "age": 43,
+    "position": "Аналитик",
+    "experience_years": 11
+  },
+  "items": [
+    {
+      "id": 37,
+      "user_id": 4,
+      "operator_id": 4,
+      "status": "closed",
+      "created_at": "2026-01-03 20:09:00",
+      "closed_at": "2026-01-03 20:45:00",
+      "csat": null,
+      "messages": [
+        {
+          "sender_type": "user",
+          "sender_id": 4,
+          "text": "Приложение вылетает при открытии раздела «Платежи».",
+          "sent_at": "2026-01-03 20:09:00"
+        },
+        {
+          "sender_type": "operator",
+          "sender_id": 4,
+          "text": "Добрый день! Спасибо за обращение, уже разбираюсь с вашим вопросом.",
+          "sent_at": "2026-01-03 20:11:00"
+        },
+        {
+          "sender_type": "user",
+          "sender_id": 4,
+          "text": "Спасибо большое, всё заработало!",
+          "sent_at": "2026-01-03 20:40:00"
+        },
+        {
+          "sender_type": "operator",
+          "sender_id": 4,
+          "text": "Рад(а) помочь! Закрываю обращение, хорошего дня.",
+          "sent_at": "2026-01-03 20:45:00"
+        }
+      ],
+      "user_name": "Попов Павел Петрович",
+      "operator_name": "Попова Ирина Олеговна"
+    },
+    {
+      "id": 95,
+      "user_id": 4,
+      "operator_id": 2,
+      "status": "open",
+      "created_at": "2026-01-07 23:01:00",
+      "closed_at": null,
+      "csat": null,
+      "messages": [
+        {
+          "sender_type": "user",
+          "sender_id": 4,
+          "text": "Промокод ERR-959 не применяется в корзине, хотя срок действия не истёк.",
+          "sent_at": "2026-01-07 23:01:00"
+        },
+        {
+          "sender_type": "operator",
+          "sender_id": 2,
+          "text": "Здравствуйте! Меня зовут Павел, я помогу вам. Уточните, пожалуйста, детали.",
+          "sent_at": "2026-01-07 23:15:00"
+        }
+      ],
+      "user_name": "Попов Павел Петрович",
+      "operator_name": "Морозов Павел Петрович"
+    }
+  ]
+}

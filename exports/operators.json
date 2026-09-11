@@ -1,187 +1,196 @@
 {
   "export_type": "operators",
-  "exported_at": "2026-09-02 23:28:58",
+  "exported_at": "2026-09-11 12:51:10",
   "count": 10,
   "items": [
     {
       "id": 1,
-      "full_name": "Кузнецова Татьяна Александровна",
-      "city": "Калининград",
-      "birth_date": "2002-03-08",
-      "age": 24,
-      "position": "Старший оператор поддержки",
-      "experience_years": 7,
-      "max_active_chats": 3,
-      "active_chat_ids": [
-        2
-      ],
-      "is_free": true,
-      "chats_total": 13,
-      "chats_closed": 12,
-      "avg_csat": 2.09
-    },
-    {
-      "id": 2,
-      "full_name": "Фёдорова Анна Петровна",
-      "city": "Новосибирск",
-      "birth_date": "1989-06-02",
-      "age": 37,
-      "position": "Старший оператор поддержки",
-      "experience_years": 1,
-      "max_active_chats": 3,
-      "active_chat_ids": [
-        42,
-        76
-      ],
-      "is_free": true,
-      "chats_total": 10,
-      "chats_closed": 8,
-      "avg_csat": 3.83
-    },
-    {
-      "id": 3,
-      "full_name": "Смирнова Ольга Дмитриевна",
-      "city": "Екатеринбург",
-      "birth_date": "1970-08-06",
-      "age": 56,
-      "position": "Оператор поддержки",
-      "experience_years": 3,
-      "max_active_chats": 3,
-      "active_chat_ids": [
-        68,
-        101
-      ],
-      "is_free": true,
-      "chats_total": 18,
-      "chats_closed": 16,
-      "avg_csat": 3.07
-    },
-    {
-      "id": 4,
-      "full_name": "Фёдоров Сергей Владимирович",
-      "city": "Санкт-Петербург",
-      "birth_date": "2004-03-26",
-      "age": 22,
-      "position": "Ведущий специалист поддержки",
-      "experience_years": 1,
-      "max_active_chats": 3,
-      "active_chat_ids": [
-        21,
-        67,
-        74
-      ],
-      "is_free": false,
-      "chats_total": 10,
-      "chats_closed": 7,
-      "avg_csat": 1.71
-    },
-    {
-      "id": 5,
-      "full_name": "Васильев Михаил Сергеевич",
-      "city": "Ростов-на-Дону",
-      "birth_date": "1998-02-11",
-      "age": 28,
-      "position": "Ведущий специалист поддержки",
-      "experience_years": 9,
-      "max_active_chats": 3,
-      "active_chat_ids": [
-        108,
-        118
-      ],
-      "is_free": true,
-      "chats_total": 13,
-      "chats_closed": 11,
-      "avg_csat": 3.0
-    },
-    {
-      "id": 6,
-      "full_name": "Смирнов Сергей Олегович",
-      "city": "Екатеринбург",
-      "birth_date": "1991-10-29",
-      "age": 34,
-      "position": "Ведущий специалист поддержки",
-      "experience_years": 11,
-      "max_active_chats": 3,
-      "active_chat_ids": [
-        20,
-        25,
-        47
-      ],
-      "is_free": false,
-      "chats_total": 6,
-      "chats_closed": 3,
-      "avg_csat": 2.5
-    },
-    {
-      "id": 7,
-      "full_name": "Фёдоров Александр Олегович",
-      "city": "Калининград",
-      "birth_date": "1990-03-16",
-      "age": 36,
-      "position": "Старший оператор поддержки",
-      "experience_years": 15,
-      "max_active_chats": 3,
-      "active_chat_ids": [
-        62,
-        90
-      ],
-      "is_free": true,
-      "chats_total": 10,
-      "chats_closed": 8,
-      "avg_csat": 2.86
-    },
-    {
-      "id": 8,
-      "full_name": "Михайлова Светлана Николаевна",
+      "full_name": "Иванов Павел Андреевич",
       "city": "Самара",
-      "birth_date": "1976-03-29",
-      "age": 50,
+      "birth_date": "1981-12-21",
+      "age": 44,
       "position": "Оператор поддержки",
-      "experience_years": 19,
+      "experience_years": 23,
       "max_active_chats": 3,
       "active_chat_ids": [
-        57
-      ],
-      "is_free": true,
-      "chats_total": 15,
-      "chats_closed": 14,
-      "avg_csat": 3.18
-    },
-    {
-      "id": 9,
-      "full_name": "Смирнов Сергей Андреевич",
-      "city": "Волгоград",
-      "birth_date": "1964-04-06",
-      "age": 62,
-      "position": "Оператор поддержки",
-      "experience_years": 21,
-      "max_active_chats": 3,
-      "active_chat_ids": [
-        23,
-        32,
-        82
+        18,
+        40,
+        55
       ],
       "is_free": false,
       "chats_total": 9,
       "chats_closed": 6,
+      "avg_csat": 2.0
+    },
+    {
+      "id": 2,
+      "full_name": "Морозов Павел Петрович",
+      "city": "Пермь",
+      "birth_date": "1967-10-20",
+      "age": 58,
+      "position": "Стажёр поддержки",
+      "experience_years": 1,
+      "max_active_chats": 3,
+      "active_chat_ids": [
+        95,
+        100,
+        105
+      ],
+      "is_free": false,
+      "chats_total": 14,
+      "chats_closed": 11,
       "avg_csat": 3.4
     },
     {
-      "id": 10,
-      "full_name": "Смирнов Андрей Владимирович",
-      "city": "Уфа",
-      "birth_date": "1993-11-18",
-      "age": 32,
+      "id": 3,
+      "full_name": "Попов Иван Петрович",
+      "city": "Калининград",
+      "birth_date": "1962-05-20",
+      "age": 64,
       "position": "Оператор поддержки",
-      "experience_years": 12,
+      "experience_years": 34,
       "max_active_chats": 3,
       "active_chat_ids": [
-        7
+        22,
+        91,
+        104
+      ],
+      "is_free": false,
+      "chats_total": 11,
+      "chats_closed": 8,
+      "avg_csat": 3.0
+    },
+    {
+      "id": 4,
+      "full_name": "Попова Ирина Олеговна",
+      "city": "Москва",
+      "birth_date": "1984-12-16",
+      "age": 41,
+      "position": "Оператор поддержки",
+      "experience_years": 22,
+      "max_active_chats": 3,
+      "active_chat_ids": [
+        11,
+        82,
+        94
+      ],
+      "is_free": false,
+      "chats_total": 18,
+      "chats_closed": 15,
+      "avg_csat": 3.23
+    },
+    {
+      "id": 5,
+      "full_name": "Петрова Наталья Сергеевна",
+      "city": "Уфа",
+      "birth_date": "1979-04-27",
+      "age": 47,
+      "position": "Стажёр поддержки",
+      "experience_years": 2,
+      "max_active_chats": 3,
+      "active_chat_ids": [
+        17,
+        65,
+        70
+      ],
+      "is_free": false,
+      "chats_total": 9,
+      "chats_closed": 6,
+      "avg_csat": 3.67
+    },
+    {
+      "id": 6,
+      "full_name": "Смирнова Екатерина Алексеевна",
+      "city": "Санкт-Петербург",
+      "birth_date": "1983-09-25",
+      "age": 42,
+      "position": "Старший оператор поддержки",
+      "experience_years": 17,
+      "max_active_chats": 3,
+      "active_chat_ids": [
+        39,
+        48,
+        60
+      ],
+      "is_free": false,
+      "chats_total": 8,
+      "chats_closed": 5,
+      "avg_csat": 3.0
+    },
+    {
+      "id": 7,
+      "full_name": "Соколов Дмитрий Петрович",
+      "city": "Красноярск",
+      "birth_date": "1986-04-21",
+      "age": 40,
+      "position": "Ведущий специалист поддержки",
+      "experience_years": 6,
+      "max_active_chats": 3,
+      "active_chat_ids": [
+        27,
+        66,
+        85
+      ],
+      "is_free": false,
+      "chats_total": 11,
+      "chats_closed": 8,
+      "avg_csat": 2.5
+    },
+    {
+      "id": 8,
+      "full_name": "Иванов Алексей Иванович",
+      "city": "Новосибирск",
+      "birth_date": "1985-12-18",
+      "age": 40,
+      "position": "Оператор поддержки",
+      "experience_years": 3,
+      "max_active_chats": 3,
+      "active_chat_ids": [
+        53,
+        80,
+        97
+      ],
+      "is_free": false,
+      "chats_total": 10,
+      "chats_closed": 7,
+      "avg_csat": 2.5
+    },
+    {
+      "id": 9,
+      "full_name": "Васильева Ирина Алексеевна",
+      "city": "Красноярск",
+      "birth_date": "1974-08-05",
+      "age": 52,
+      "position": "Оператор поддержки",
+      "experience_years": 13,
+      "max_active_chats": 3,
+      "active_chat_ids": [
+        3,
+        25,
+        26
+      ],
+      "is_free": false,
+      "chats_total": 3,
+      "chats_closed": 0,
+      "avg_csat": null
+    },
+    {
+      "id": 10,
+      "full_name": "Волкова Юлия Дмитриевна",
+      "city": "Калининград",
+      "birth_date": "1975-05-10",
+      "age": 51,
+      "position": "Оператор поддержки",
+      "experience_years": 10,
+      "max_active_chats": 3,
+      "active_chat_ids": [
+        35,
+        76
       ],
       "is_free": true,
-      "chats_total": 17,
-      "chats_closed": 16,
-      "avg_csat": 3.55
+      "chats_total": 27,
+      "chats_closed": 25,
+      "avg_csat": 3.17
     }
   ]
 }

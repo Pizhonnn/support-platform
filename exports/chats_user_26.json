@@ -1,0 +1,15 @@
+{
+  "export_type": "chats_by_user",
+  "exported_at": "2026-09-11 12:51:10",
+  "count": 0,
+  "user": {
+    "id": 26,
+    "full_name": "Васильев Иван Александрович",
+    "city": "Уфа",
+    "birth_date": "1965-06-21",
+    "age": 61,
+    "position": "Бухгалтер",
+    "experience_years": 3
+  },
+  "items": []
+}
