@@ -1,0 +1,407 @@
+{
+  "export_type": "users",
+  "exported_at": "2026-09-02 23:28:58",
+  "count": 40,
+  "items": [
+    {
+      "id": 1,
+      "full_name": "Соколова Анна Дмитриевна",
+      "city": "Сочи",
+      "birth_date": "1980-07-14",
+      "age": 46,
+      "position": "Пенсионер",
+      "experience_years": 10,
+      "chats_total": 3
+    },
+    {
+      "id": 2,
+      "full_name": "Смирнова Ксения Дмитриевна",
+      "city": "Новосибирск",
+      "birth_date": "1984-06-18",
+      "age": 42,
+      "position": "Бухгалтер",
+      "experience_years": 15,
+      "chats_total": 4
+    },
+    {
+      "id": 3,
+      "full_name": "Морозова Светлана Николаевна",
+      "city": "Воронеж",
+      "birth_date": "1983-02-24",
+      "age": 43,
+      "position": "Маркетолог",
+      "experience_years": 22,
+      "chats_total": 1
+    },
+    {
+      "id": 4,
+      "full_name": "Михайлов Никита Сергеевич",
+      "city": "Санкт-Петербург",
+      "birth_date": "1998-03-06",
+      "age": 28,
+      "position": "Дизайнер",
+      "experience_years": 7,
+      "chats_total": 3
+    },
+    {
+      "id": 5,
+      "full_name": "Кузнецова Полина Ивановна",
+      "city": "Краснодар",
+      "birth_date": "1972-12-25",
+      "age": 53,
+      "position": "Инженер",
+      "experience_years": 25,
+      "chats_total": 1
+    },
+    {
+      "id": 6,
+      "full_name": "Михайлов Михаил Петрович",
+      "city": "Пермь",
+      "birth_date": "1983-10-03",
+      "age": 42,
+      "position": "Юрист",
+      "experience_years": 4,
+      "chats_total": 5
+    },
+    {
+      "id": 7,
+      "full_name": "Петрова Юлия Владимировна",
+      "city": "Новосибирск",
+      "birth_date": "1987-12-24",
+      "age": 38,
+      "position": "Учитель",
+      "experience_years": 4,
+      "chats_total": 1
+    },
+    {
+      "id": 8,
+      "full_name": "Попов Алексей Иванович",
+      "city": "Нижний Новгород",
+      "birth_date": "2007-08-07",
+      "age": 19,
+      "position": "Юрист",
+      "experience_years": 1,
+      "chats_total": 2
+    },
+    {
+      "id": 9,
+      "full_name": "Иванова Елена Владимировна",
+      "city": "Казань",
+      "birth_date": "1975-07-22",
+      "age": 51,
+      "position": "Бухгалтер",
+      "experience_years": 20,
+      "chats_total": 3
+    },
+    {
+      "id": 10,
+      "full_name": "Козлова Алина Петровна",
+      "city": "Воронеж",
+      "birth_date": "1973-06-24",
+      "age": 53,
+      "position": "Аналитик",
+      "experience_years": 25,
+      "chats_total": 3
+    },
+    {
+      "id": 11,
+      "full_name": "Михайлов Алексей Владимирович",
+      "city": "Новосибирск",
+      "birth_date": "2003-02-05",
+      "age": 23,
+      "position": "Дизайнер",
+      "experience_years": 1,
+      "chats_total": 5
+    },
+    {
+      "id": 12,
+      "full_name": "Кузнецова Мария Алексеевна",
+      "city": "Москва",
+      "birth_date": "2003-12-19",
+      "age": 22,
+      "position": "Врач",
+      "experience_years": 0,
+      "chats_total": 4
+    },
+    {
+      "id": 13,
+      "full_name": "Петров Сергей Александрович",
+      "city": "Челябинск",
+      "birth_date": "2002-05-16",
+      "age": 24,
+      "position": "Аналитик",
+      "experience_years": 6,
+      "chats_total": 8
+    },
+    {
+      "id": 14,
+      "full_name": "Морозов Артём Алексеевич",
+      "city": "Екатеринбург",
+      "birth_date": "1976-01-05",
+      "age": 50,
+      "position": "Студент",
+      "experience_years": 30,
+      "chats_total": 2
+    },
+    {
+      "id": 15,
+      "full_name": "Михайлова Ирина Николаевна",
+      "city": "Казань",
+      "birth_date": "1980-09-14",
+      "age": 45,
+      "position": "Студент",
+      "experience_years": 2,
+      "chats_total": 5
+    },
+    {
+      "id": 16,
+      "full_name": "Волкова Наталья Николаевна",
+      "city": "Москва",
+      "birth_date": "1994-03-13",
+      "age": 32,
+      "position": "Дизайнер",
+      "experience_years": 8,
+      "chats_total": 4
+    },
+    {
+      "id": 17,
+      "full_name": "Кузнецова Полина Петровна",
+      "city": "Ростов-на-Дону",
+      "birth_date": "2006-04-03",
+      "age": 20,
+      "position": "Инженер",
+      "experience_years": 2,
+      "chats_total": 3
+    },
+    {
+      "id": 18,
+      "full_name": "Новикова Екатерина Сергеевна",
+      "city": "Калининград",
+      "birth_date": "1976-10-08",
+      "age": 49,
+      "position": "Водитель",
+      "experience_years": 14,
+      "chats_total": 2
+    },
+    {
+      "id": 19,
+      "full_name": "Фёдоров Роман Иванович",
+      "city": "Самара",
+      "birth_date": "1987-03-16",
+      "age": 39,
+      "position": "Дизайнер",
+      "experience_years": 12,
+      "chats_total": 1
+    },
+    {
+      "id": 20,
+      "full_name": "Петрова Полина Александровна",
+      "city": "Краснодар",
+      "birth_date": "2006-03-05",
+      "age": 20,
+      "position": "Юрист",
+      "experience_years": 1,
+      "chats_total": 4
+    },
+    {
+      "id": 21,
+      "full_name": "Волков Сергей Алексеевич",
+      "city": "Красноярск",
+      "birth_date": "1968-07-23",
+      "age": 58,
+      "position": "Инженер",
+      "experience_years": 22,
+      "chats_total": 3
+    },
+    {
+      "id": 22,
+      "full_name": "Смирнов Иван Николаевич",
+      "city": "Челябинск",
+      "birth_date": "1991-01-13",
+      "age": 35,
+      "position": "Пенсионер",
+      "experience_years": 10,
+      "chats_total": 3
+    },
+    {
+      "id": 23,
+      "full_name": "Михайлов Алексей Алексеевич",
+      "city": "Воронеж",
+      "birth_date": "2001-01-27",
+      "age": 25,
+      "position": "Дизайнер",
+      "experience_years": 1,
+      "chats_total": 4
+    },
+    {
+      "id": 24,
+      "full_name": "Кузнецова Татьяна Алексеевна",
+      "city": "Волгоград",
+      "birth_date": "2000-11-24",
+      "age": 25,
+      "position": "Аналитик",
+      "experience_years": 6,
+      "chats_total": 4
+    },
+    {
+      "id": 25,
+      "full_name": "Волков Максим Сергеевич",
+      "city": "Казань",
+      "birth_date": "1997-04-14",
+      "age": 29,
+      "position": "Логист",
+      "experience_years": 0,
+      "chats_total": 2
+    },
+    {
+      "id": 26,
+      "full_name": "Фёдоров Кирилл Олегович",
+      "city": "Казань",
+      "birth_date": "1966-02-15",
+      "age": 60,
+      "position": "Врач",
+      "experience_years": 22,
+      "chats_total": 4
+    },
+    {
+      "id": 27,
+      "full_name": "Иванов Роман Дмитриевич",
+      "city": "Челябинск",
+      "birth_date": "1996-03-10",
+      "age": 30,
+      "position": "Дизайнер",
+      "experience_years": 6,
+      "chats_total": 3
+    },
+    {
+      "id": 28,
+      "full_name": "Васильев Иван Андреевич",
+      "city": "Уфа",
+      "birth_date": "1963-09-20",
+      "age": 62,
+      "position": "Юрист",
+      "experience_years": 15,
+      "chats_total": 1
+    },
+    {
+      "id": 29,
+      "full_name": "Козлова Елена Александровна",
+      "city": "Тюмень",
+      "birth_date": "1976-12-10",
+      "age": 49,
+      "position": "Администратор",
+      "experience_years": 29,
+      "chats_total": 4
+    },
+    {
+      "id": 30,
+      "full_name": "Новиков Максим Петрович",
+      "city": "Волгоград",
+      "birth_date": "1962-11-17",
+      "age": 63,
+      "position": "Учитель",
+      "experience_years": 1,
+      "chats_total": 3
+    },
+    {
+      "id": 31,
+      "full_name": "Лебедев Роман Сергеевич",
+      "city": "Краснодар",
+      "birth_date": "1993-03-21",
+      "age": 33,
+      "position": "Студент",
+      "experience_years": 4,
+      "chats_total": 3
+    },
+    {
+      "id": 32,
+      "full_name": "Петров Алексей Петрович",
+      "city": "Калининград",
+      "birth_date": "1965-05-24",
+      "age": 61,
+      "position": "Бухгалтер",
+      "experience_years": 6,
+      "chats_total": 3
+    },
+    {
+      "id": 33,
+      "full_name": "Попов Артём Александрович",
+      "city": "Волгоград",
+      "birth_date": "1999-11-30",
+      "age": 26,
+      "position": "Менеджер по продажам",
+      "experience_years": 8,
+      "chats_total": 2
+    },
+    {
+      "id": 34,
+      "full_name": "Михайлов Никита Олегович",
+      "city": "Тюмень",
+      "birth_date": "1963-04-30",
+      "age": 63,
+      "position": "Дизайнер",
+      "experience_years": 38,
+      "chats_total": 6
+    },
+    {
+      "id": 35,
+      "full_name": "Михайлова Дарья Петровна",
+      "city": "Самара",
+      "birth_date": "1965-10-17",
+      "age": 60,
+      "position": "Юрист",
+      "experience_years": 32,
+      "chats_total": 2
+    },
+    {
+      "id": 36,
+      "full_name": "Козлов Егор Сергеевич",
+      "city": "Воронеж",
+      "birth_date": "1971-04-21",
+      "age": 55,
+      "position": "Логист",
+      "experience_years": 7,
+      "chats_total": 1
+    },
+    {
+      "id": 37,
+      "full_name": "Смирнова Юлия Ивановна",
+      "city": "Челябинск",
+      "birth_date": "1970-04-03",
+      "age": 56,
+      "position": "Предприниматель",
+      "experience_years": 4,
+      "chats_total": 0
+    },
+    {
+      "id": 38,
+      "full_name": "Лебедев Максим Алексеевич",
+      "city": "Казань",
+      "birth_date": "1995-11-08",
+      "age": 30,
+      "position": "Логист",
+      "experience_years": 4,
+      "chats_total": 2
+    },
+    {
+      "id": 39,
+      "full_name": "Волков Дмитрий Владимирович",
+      "city": "Самара",
+      "birth_date": "1964-12-19",
+      "age": 61,
+      "position": "Учитель",
+      "experience_years": 10,
+      "chats_total": 3
+    },
+    {
+      "id": 40,
+      "full_name": "Новикова Татьяна Алексеевна",
+      "city": "Красноярск",
+      "birth_date": "1970-11-20",
+      "age": 55,
+      "position": "Водитель",
+      "experience_years": 12,
+      "chats_total": 4
+    }
+  ]
+}
