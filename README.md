@@ -49,7 +49,7 @@ app = create_application()
 operator = app.profiles.register_operator(
     "Иван Иванов", "Москва", "1990-05-10", "Оператор поддержки", 4
 )
-user = app.profiles.register_user("Анна Петрова", "Курск", "1995-01-20", "Бухгалтер", 6)
+user = app.profiles.register_user("Анна Петрова", "Орёл", "1995-01-20", "Бухгалтер", 6)
 
 chat = app.platform.create_chat(user.id, "Не могу войти в кабинет")
 app.platform.operator_reply(chat.id, "Отправил ссылку для восстановления пароля")
