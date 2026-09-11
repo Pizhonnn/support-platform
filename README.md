@@ -56,7 +56,7 @@ app.platform.operator_reply(chat.id, "Отправил ссылку для во�
 app.platform.close_chat(chat.id)
 app.platform.rate_chat(chat.id, 5)
 
-updated_user = app.profiles.update_user(user.id, city="Одесса")
+updated_user = app.profiles.update_user(user.id, city="Курск")
 print(app.queries.stats())
 Exporter(app.queries).export_all_chats()
 
